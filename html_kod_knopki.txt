@@ -1,0 +1,1 @@
+<img id="to_top" src="<?php echo get_template_directory_uri(); ?>/images/arrow_to_top.png" alt="К началу страницы" style="display: block;"/>
